@@ -23,3 +23,9 @@ function main() {
 main();
 
 //Java Script is syncronus and single threaded.
+//In ascyncronus we use event loop to manage the call stack
+//Asyncronous call using timers
+//1- Set Timeout
+//2- Set Immediate
+//3- Process.next Tick
+//4- Set Internal
