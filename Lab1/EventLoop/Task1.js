@@ -21,3 +21,5 @@ function main() {
   console.log("Main End");
 }
 main();
+
+//Java Script is syncronus and single threaded.
